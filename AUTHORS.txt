@@ -5,3 +5,4 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
+Ronen Cohen <ronenco.mail@gmail.com>
